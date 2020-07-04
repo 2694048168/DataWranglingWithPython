@@ -2,8 +2,8 @@
 **《利用 Python 进行数据分析 第二版》**
 
 ## 笔记仓库
-[Github]()
-[Gitee]()
+[Github](git@github.com:2694048168/DataWranglingWithPython.git)
+[Gitee](git@gitee.com:weili_yzzcq/DataWranglingWithPython.git)
 
 ## Software
 
